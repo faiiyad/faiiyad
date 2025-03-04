@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 Hey my name is Faiyad. I am an undergraduate CS student at the University of Toronto. Welcome to my GitHub page!!
 
 
